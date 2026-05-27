@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Based Phishing URL Detection System
 
 A Machine Learning powered cybersecurity application that detects malicious phishing URLs and protects users from online scams.
@@ -46,3 +47,6 @@ python app.py
 ## 📌 Conclusion
 
 This project helps users identify phishing URLs using Artificial Intelligence.
+=======
+# Talent-Titans-_W4_C4
+>>>>>>> ca2d17fb201cbea67e138c831b41569374022676
